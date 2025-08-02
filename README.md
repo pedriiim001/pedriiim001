@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Pedro Octávio Silva Novoa, a Software Developer from Brazil.</h2>
+<h2 align="left">Hi 👋! I'm Pedro Octávio Silva Novoa, a Software Developer and Infrastructure Analyst from Brazil.</h2>
 
 ###
 
@@ -11,7 +11,7 @@ I'm passionate about technology and games, currently focusing on <b>game develop
 I'm currently making a career transition from Full Stack to <b>Game Development</b>, and I'm excited to bring my programming and system design experience into the world of interactive entertainment.<br><br>
 In addition to web and backend development, I have hands-on experience deploying and managing applications in the cloud using both <b>AWS</b> and <b>Microsoft Azure</b> services.<br><br>
 👨‍💻 <b>Currently:</b> Employed<br><br>
-🧠 <b>Learning:</b> Unity for Game Development<br><br>
+🧠 <b>Learning:</b> Unity(C#) and Unreal(C++) for Game Development<br><br>
 📫 <b>Reach me at:</b> pedronovoa.21@gmail.com or on <a href="https://www.linkedin.com/in/pedronovoadev/?locale=en_US" target="_blank">LinkedIn</a><br><br>
 ⚡️ <b>Fun fact:</b> I have a helicopter pilot license 😄
 </p>
